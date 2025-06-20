@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Get the LLM_MODEL_NAME from .env file
+# You can add here more model names
 LLM_MODEL_NAME="ai/llama3.2:1B-Q8_0"
 
 # Check if LLM_MODEL_NAME was found
