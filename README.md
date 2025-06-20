@@ -16,6 +16,6 @@ Rahul Bhoyar
 1. Verify that the Docker Desktop is running
 2. Execute below bash command :
 
-   ```
-   run.sh
-   '''
+```
+bash run.sh
+```
