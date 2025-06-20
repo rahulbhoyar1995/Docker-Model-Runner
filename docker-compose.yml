@@ -1,0 +1,5 @@
+services:
+  python-genai:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
